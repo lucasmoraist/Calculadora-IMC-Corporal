@@ -1,9 +1,10 @@
 import React from 'react';
+import Calculadora from './components/Calculadora';
 
 export default function App(){
     return(
         <>
-            <h2>Olá mundo</h2>
+            <Calculadora/>
         </>
     )
 }
