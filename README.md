@@ -1,5 +1,5 @@
 # Calculadora-IMC-Corporal
 
 ## Necessário para rodar a aplicação
-- `npm install` 
-- E rodar a aplicação com comando `npm start`
+- `npm install` para instalar a pasta node_modules
+- `npm start` para rodar a aplicação
